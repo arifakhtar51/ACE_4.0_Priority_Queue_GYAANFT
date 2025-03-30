@@ -1,6 +1,6 @@
 # GyaanFT - AI-Powered Learning Ecosystem
 
-![GyaanFT Banner](https://github.com/itzzGaurav7/sage-zingguru/blob/main/public/zing_banner.png)
+![GyaanFT Banner](https://github.com/arifakhtar51/ACE_4.0_Priority_Queue_GYAANFT/blob/main/public/Banner.png)
 
 **GyaanFT** is an AI-driven, gamified **learning ecosystem** designed to provide **personalized, engaging, and inclusive education** for students of all backgrounds. It seamlessly integrates **AI-powered tutors, gamification, and collaborative learning** to create an adaptive and interactive experience.
 
